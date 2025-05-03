@@ -1,3 +1,5 @@
+文件要这样看，先看我的安全备份safe-backup,里面有完整的STM32f103c8t6的代码，然后再看main的。
+反正是写给我自己看的，依托答辩
 PS D:\Program Files\gitpath> git remote set-url origin git@github.com:173hoh/stm32project.git
 PS D:\Program Files\gitpath> git remote -v
 origin  git@github.com:173hoh/stm32project.git (fetch)
